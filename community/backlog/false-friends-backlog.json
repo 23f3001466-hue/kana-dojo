@@ -321,7 +321,7 @@
     "example": "試合前はみんなハイテンションだった。",
     "id": 36,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "イメージ (imeeji)",
@@ -330,7 +330,7 @@
     "example": "会社のイメージが良くなった。",
     "id": 37,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "サラリーマン (sarariman)",
@@ -339,7 +339,7 @@
     "example": "父は都内でサラリーマンをしている。",
     "id": 38,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "ペットボトル (petto botoru)",
@@ -384,7 +384,7 @@
     "example": "コンセントが足りないので延長コードを使います。",
     "id": 43,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "スマート (sumaato)",
@@ -393,7 +393,7 @@
     "example": "彼はスマートな着こなしをしている。",
     "id": 44,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "テンション (tenshon)",
@@ -402,7 +402,7 @@
     "example": "ライブでテンションが上がった。",
     "id": 45,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "バイキング (baikingu)",
@@ -653,7 +653,7 @@
     "explanation": "Used to comfort someone: 'never mind'. (Set 4)",
     "example": "ミスしてもドンマイ！",
     "id": 73,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
