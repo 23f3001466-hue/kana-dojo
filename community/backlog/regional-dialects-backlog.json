@@ -929,7 +929,7 @@
     "note": "Strong Nagoya marker. (Set 5)",
     "id": 93,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "ぶち",
@@ -948,7 +948,7 @@
     "region": "Hiroshima",
     "note": "Common causal ending. (Set 5)",
     "id": 95,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
