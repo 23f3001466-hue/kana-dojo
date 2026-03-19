@@ -489,13 +489,13 @@
     "id": 82,
     "text": "\"〜ばかりか\" means \"not only... but also\".",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 83,
     "text": "\"〜にしたがって\" means \"as / in accordance with...\".",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 84,
