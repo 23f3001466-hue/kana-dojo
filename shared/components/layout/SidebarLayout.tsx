@@ -19,7 +19,7 @@ const SidebarLayout = ({
   className,
 }: SidebarLayoutProps) => {
   return (
-    <div className='flex min-h-[100dvh] max-w-[100dvw] gap-4 lg:gap-6 lg:pr-6'>
+    <div className='flex min-h-[100dvh] max-w-[100dvw] gap-4 lg:gap-4 lg:pr-6'>
       <Sidebar />
       <div
         className={clsx(
